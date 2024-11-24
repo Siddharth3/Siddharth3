@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Siddharth3)
+
 ## 🙋‍♂️ About me
 My name is Siddharth, you can call me Sid 🤓. Turning data into decisions is my passion, and empowering teams with insights is my mission. I am highly motivated and imaginative data specialist with an extensive knowledge. 
 My expertise spans mobile app development, leading technical teams, and delivering data-driven insights that enhance business performance. I'm passionate about combining my technical skills with data science to solve complex problems and optimize decision-making.
