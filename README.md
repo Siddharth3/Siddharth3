@@ -21,7 +21,7 @@ My expertise spans mobile app development, leading technical teams, and deliveri
 
 
 ## 🫣 Reach me
-[📬](mailto:sidd.sahni3@gmail.com)
+[![pngwing com](https://github.com/user-attachments/assets/16453f53-d59f-4e4c-a10e-5958922d1cad)](mailto:sidd.sahni3@gmail.com)
 <!--
 **Siddharth3/Siddharth3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
