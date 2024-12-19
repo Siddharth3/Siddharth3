@@ -18,6 +18,7 @@ My expertise spans mobile app development, leading technical teams, and deliveri
 - ![icons8-india-28](https://github.com/user-attachments/assets/a5aafcc2-c643-4361-8fd7-df3a5ac5e361) (Native)
 - ![icons8-united-kingdom-28](https://github.com/user-attachments/assets/2d2027d4-e4e8-4a26-bd43-8af16de030e2) (Expert)
 - ![icons8-germany-28](https://github.com/user-attachments/assets/3e12050e-6feb-4ac6-a853-f9f9a4ee4fca) (Beginner)
+- ![icons8-italy-28](https://github.com/user-attachments/assets/c33b5c98-6f37-4770-a96f-a4e6abc2fe62) (Beginner)
 
 
 ## 🫣 Reach me
